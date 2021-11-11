@@ -1,4 +1,4 @@
-Attribute VB_Name = "congmaunen"
+Attribute VB_Name = "sumbycolor"
 '########## Tinh tong theo mau nen ##########
 Function tongmaunen(omau As Range, vungdulieu As Range) ' khai bao dang cong thuc
 Dim tinhtong As Long ' khai bao ct tinh tong
